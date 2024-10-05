@@ -1,4 +1,4 @@
-# ALL TASKS // HOLY CRAP!!! I'M SCARED!!!!
+# ALL TASKS 
 
 tasks = []
 
